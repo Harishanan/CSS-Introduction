@@ -1,0 +1,40 @@
+body				/*body*/
+{
+background-color:yellow;
+}
+
+.words				/*heading and thank you*/
+{
+color:ff0000;
+font-size:20pt;
+text-align:center;
+}
+
+p				/*paragraph*/
+{
+font-size:18pt;
+}
+
+ol				/*ordered list*/
+{
+font-size:14pt;
+font-weight:bold;
+color:rgb(255,0,0);
+}
+
+.list1				/*unordered list*/
+{
+font-size:14pt;
+}
+
+#mypara1			/*seperate line*/
+{
+color:0000ff;
+text-align:center;
+}
+
+a:link{color:#000000;}
+a:visited{color:#0000FF;}
+a:hover{color:#FF00FF;}
+a:active{color:#000000;}
+img:hover{border-style:solid;border-color:blue;]
